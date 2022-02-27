@@ -5,9 +5,9 @@
 
 ## I'm a Tech entrepreneur, Author, and Speaker!!
 
-- 🚀  CTO & Co-Founder @[Crew](https://www.crew.work) (YC Combinator S21)
+- 🚀  CTO & Co-Founder @[Crew](https://www.crew.work) (Y Combinator S21)
 - 📕  Author of books around distributed cloud-native applications and DevOps practices - [Books on Amazon](https://www.amazon.com/s?k=mohamed+labouardy&ref=nb_sb_noss_2)
-- 💸  Founder of [Komiser.io](https://www.komiser.io), a cloud-cost optimization platform for AWS, GCP and DigitalOcean
+- 💸  Founder of [Komiser.io](https://www.komiser.io), a cloud-cost optimization platform for AWS, GCP, Azure and DigitalOcean
 - 🤓  Editor of two weekly newsletters [DevOps Bulletin](https://www.devopsbulletin.com) and [Founder Bulletin](https://www.founderbulletin.com)
 - 🥅  Open-source contributor (Docker, Jenkins, Telegraf & co)
 - ⚡   Fun fact: powerlifting addict 💪🏻
