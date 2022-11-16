@@ -5,7 +5,7 @@
 
 ## I'm a Tech entrepreneur, Author, and Speaker!!
 
-- ⛅  CTO & Co-Founder @[Oraculi](https://oraculi.io)
+- ⛅  CTO & Co-Founder @[tailwarden](https://tailwarden.com)
 - 🚀  Prev CTO & Co-Founder @[Crew](https://www.crew.work) (Y Combinator S21)
 - 📕  Author of several "best-seller" books around Serverless, Cloud Native apps and DevOps practices - [Books on Amazon](https://www.amazon.com/Mohamed-Labouardy/e/B07K1DZ3RN)
 - 💸  Founder of [Komiser.io](https://www.komiser.io), a cloud-cost optimization platform for AWS, GCP, Azure and DigitalOcean
