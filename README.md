@@ -45,6 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why we made Komiser open source](https://www.tailwarden.com/blog/why-we-made-komiser-open-source)
 - [How We Reduced Lambda Functions Costs by Thousands of Dollars](https://medium.com/@mlabouardy/how-we-reduced-lambda-functions-costs-by-thousands-of-dollars-8279b0a69931)
 - [Building a CI/CD on GCP with Kubernetes](https://medium.com/@mlabouardy/building-a-ci-cd-on-gcp-with-kubernetes-db8455d7286e)
 - [CI/CD for Android and iOS Apps on AWS](https://medium.com/@mlabouardy/ci-cd-for-android-and-ios-apps-on-aws-79695520fde4)
