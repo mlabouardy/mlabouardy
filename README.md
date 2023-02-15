@@ -5,11 +5,11 @@
 
 ## I'm a Tech entrepreneur, Author, and Speaker!!
 
-- ⛅  CTO & Co-Founder @[tailwarden](https://tailwarden.com)
+- ⛅  CTO & Co-Founder @[Tailwarden](https://tailwarden.com)
 - 🚀  Prev CTO & Co-Founder @[Crew](https://www.crew.work) (Y Combinator S21)
 - 📕  Author of several "best-seller" books around Serverless, Cloud Native apps and DevOps practices - [Books on Amazon](https://www.amazon.com/Mohamed-Labouardy/e/B07K1DZ3RN)
 - 💸  Founder of [Komiser.io](https://www.komiser.io), a cloud-cost optimization platform for AWS, GCP, Azure and DigitalOcean
-- 🤓  Editor of two weekly newsletters [DevOps Bulletin](https://www.devopsbulletin.com) (over 60k+ subscribers) and [Founder Bulletin](https://www.founderbulletin.com)
+- 🤓  Editor of a DevOps weekly newsletter [DevOps Bulletin](https://www.devopsbulletin.com) (over 140k+ subscribers)
 - 🥅  Open-source contributor (Docker, K8s, Jenkins, Telegraf & co)
 - ⚡   Fun fact: powerlifting addict 💪🏻
 
